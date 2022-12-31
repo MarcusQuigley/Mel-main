@@ -1,6 +1,6 @@
 ### Hi there  ✨ special ✨ 😄
 
-- 🔭 Going back step by step
+- 🔭 Going back to go forward step by step 
 - 🌱 I’m currently learning ...Python 
 - ⚡ Fun fact: ...there are so many ;) too many... 🤔
 - 💬 Still learning but happy to help with the basics if I can. 
