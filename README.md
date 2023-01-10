@@ -1,12 +1,12 @@
-### Hi there  ✨ special ✨ 😄
 
+<!--
 - 🔭 Going back to go forward step by step 
-- 🌱 I’m currently learning ...Python 
-- ⚡ Fun fact: ...there are so many ;) too many... 🤔
+- 🌱 I’m currently learning ...SQL, Python, R, and Tableau. 
+-     ⚡ For Data Ananlytics
 - 💬 Still learning but happy to help with the basics if I can. 
-<!-- - 👯 I’m looking to collaborate on ...
+ - 👯 I’m looking to collaborate on ...
 -  I’m looking for help with ...
-- 
+- - ⚡ Fun fact: ...there are so many ;) too many... 🤔
 - 📫 How to reach me: ...
 -  Pronouns: ...
 
