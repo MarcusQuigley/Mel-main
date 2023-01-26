@@ -2,7 +2,7 @@
 
 - 🔭 Going back to go forward step by step 
 - 🌱 Python
-- 💬 Still learning but happy to help with the basics if I can. 
+- 💬 Currently, I completing the Google Data Analytics Certification.  
  <!-- 👯 I’m looking to collaborate on ...
 -  I’m looking for help with ...
 - - ⚡ Fun fact: ...there are so many ;) too many... 🤔
