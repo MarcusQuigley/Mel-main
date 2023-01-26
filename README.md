@@ -1,8 +1,9 @@
 
 
-- 🔭 Going back to go forward step by step 
+- 🔭 Currently I'm working on the Google Data Analytics Certification
 - 🌱 Python
-- 💬 Currently, I completing the Google Data Analytics Certification.  
+-  
+-  
  <!-- 👯 I’m looking to collaborate on ...
 -  I’m looking for help with ...
 - - ⚡ Fun fact: ...there are so many ;) too many... 🤔
