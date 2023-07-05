@@ -6,3 +6,5 @@ Noble Desktop Web and Responsive Web Certification 2018
 
 I.U.P. BA Interdisciplinary Fine Arts 2005
 -Graphic Design, Photography, Art History
+
+MAIN UNDER CONSTRUCTION... a compilation of past projects that need reviewing and refined.  
